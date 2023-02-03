@@ -3,7 +3,7 @@
   "symbol": "ELE",
   "description": "Fire, water, nature. Which one do you feel more? Powerd by $3LE.",
   "seller_fee_basis_points": 800,
-  "image": "https://raw.githubusercontent.com/mrdogy98/3lementals/main/3lementals.png",
+  "image": "https://raw.githubusercontent.com/mrdogy98/3lementals/main/3lementals.jpeg",
   "external_url": "",
   "collection": {
     "name": "3lementals",
@@ -38,7 +38,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/mrdogy98/3lementals/main/3lementals.png",
+        "uri": "https://raw.githubusercontent.com/mrdogy98/3lementals/main/3lementals.jpeg",
         "type": "image/jpeg"
       }
     ],
