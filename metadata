@@ -1,0 +1,53 @@
+{
+  "name": "3lementals #537",
+  "symbol": "ELE",
+  "description": "Fire, water, nature. Which one do you feel more? Powerd by $3LE.",
+  "seller_fee_basis_points": 800,
+  "image": "https://raw.githubusercontent.com/mrdogy98/3lementals/main/3lementals.png?token=GHSAT0AAAAAAB6KKCTPA4W4BSNU7NNOIP6AY65LN5A",
+  "external_url": "",
+  "collection": {
+    "name": "3lementals",
+    "family": "LaunchMyNFT"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mountains"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Royal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Polar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bluish"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Sad"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Purple Chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mrdogy98/3lementals/main/3lementals.png?token=GHSAT0AAAAAAB6KKCTPA4W4BSNU7NNOIP6AY65LN5A",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4zFpubG1s1Cwm8CgjUEKZ3iRGRadtsx1mvEqqD4qMLMB",
+        "share": 100
+      }
+    ]
+  }
+}
